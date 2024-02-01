@@ -1,7 +1,7 @@
 # Python Reddit Market Observer
 
 The following python program calls the Reddit API to monitor a market related subreddit. 
-In this case, we are monitoring R/WatchExchange with keywords and using Twilio to message results directly to your phone, however you can monitor any subreddit.
+In this case, we are monitoring R/WatchExchange with keywords and using Twilio to message results directly to your phone including a link, however you can monitor any subreddit.
 
 In order to use this script correctly, you will need to register for both a [reddit API key](https://www.reddit.com/dev/api/) and a [Twilio](https://www.twilio.com/en-us) account
 
